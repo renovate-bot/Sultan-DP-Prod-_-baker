@@ -1,2 +1,2 @@
-Werkzeug==0.15.2
+Werkzeug==2.3.4
 ansible==2.9
